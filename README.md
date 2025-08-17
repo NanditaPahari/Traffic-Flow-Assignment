@@ -84,6 +84,12 @@ numpy
 ultralytics
 ```
 
+## 🖼️ Example Output Frame
+Here’s an example frame from the processed video showing lane definitions and vehicle counts:
+
+![Sample Frame](https://github.com/NanditaPahari/Traffic-Flow-Assignment/blob/d6cee9b556ffc15b2875a48a7a36c506982329c1/Screenshot%202025-08-17%20222231.png)
+
+
 ---
 
 ## 🛠️ Challenges Faced
