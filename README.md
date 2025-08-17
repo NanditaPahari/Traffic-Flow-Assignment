@@ -12,4 +12,9 @@ This project implements **vehicle detection, tracking, and lane-wise counting** 
 
 ## 📂 Project Structure  
 
+traffic-analysis/
+│── traffic_analysis.py
+│── traffic_video.mp4   # (your input video)
+│── README.md           # (from my last response)
+│── requirements.txt    # (from above)
 
