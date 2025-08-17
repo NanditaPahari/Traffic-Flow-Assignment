@@ -1,0 +1,7 @@
+Video --> https://drive.google.com/file/d/12hP1MPBjYzmybW5c_uMlzuBtEitET3NK/view?usp=sharing
+Data--> https://drive.google.com/file/d/1UX_wPAZLnLomqGN3YwQlkMWBQThh0QUg/view?usp=sharing
+
+Traffic Analysis Summary:
+Lane 1: 239 vehicles
+Lane 2: 98 vehicles
+Lane 3: 36 vehicles
